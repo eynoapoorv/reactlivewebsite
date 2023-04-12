@@ -103,6 +103,7 @@ const Contact = () => {
                                                         onChange={onInputChange}
                                                     >
                                                         {message}
+                                                        
                                                     </textarea>
                                                 </div>
                                             </div>
