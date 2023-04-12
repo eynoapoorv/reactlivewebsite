@@ -48,7 +48,7 @@ const Contact = () => {
                                 <div className="sec-title">
                                     <h2>Write us any message</h2>
                                 </div>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nihil recusandae nisi dicta voluptates delectus atque tempora, placeat tempore ad!</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nihil recusandae nisi dicta voluptates delectus atque tempora, placeat tempore Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
                                 <div className="contact-two__social">
                                     <a href="" className="fa-brands fa-instagram"></a>
                                     <a href="" className="fa-brands fa-facebook-f"></a>
